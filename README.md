@@ -1,7 +1,4 @@
-
 # Code Complete 2ed
-
-
 
 Resumo do Livro Code Complete 2ed - Um guia prático para a construção de Software 
 
